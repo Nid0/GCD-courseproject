@@ -2,6 +2,7 @@
 File Source: "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 The code structure:
+
 1- Load (plyr) & (data.table) packages.
 
 2- Download the .zip file, & unzip it.
